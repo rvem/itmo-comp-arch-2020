@@ -1,2 +1,11 @@
-# itmo-comp-arch-2020
-Course tasks for ITMO computer architecture course on computer technologies department
+# Архитектура ЭВМ, осень 2020
+
+Решения домашних заданий присылать на почту:
+`comp.arch.ctd@gmail.com`.
+
+Тема письма должна соответствовать формату:
+ДЗX, Имя Фамилия, M313Y, где X - номер домашнего задания, а Y - номер вашей группы.
+
+## Домашние задания
+
+* [ДЗ1](hw1.md)
